@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "890611190244",
+    "firebase_url": "https://dssbasket-c2a87-default-rtdb.firebaseio.com",
+    "project_id": "dssbasket-c2a87",
+    "storage_bucket": "dssbasket-c2a87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890611190244:android:4615994ec6f2f4327edff1",
+        "android_client_info": {
+          "package_name": "com.grocery.cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8TBE7khxOS8xsdJbp6b5r5d1GL1bo9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890611190244:android:955bd89f234b48d37edff1",
+        "android_client_info": {
+          "package_name": "com.example.dssbasket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8TBE7khxOS8xsdJbp6b5r5d1GL1bo9lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

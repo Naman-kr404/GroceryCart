@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GroceryCart</string>
+    <string name="title_activity_shipping_address">shipping_address</string>
+</resources>
