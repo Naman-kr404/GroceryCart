@@ -40,14 +40,31 @@
 ## 📱 Screenshots
 
 <!-- Optionally add screenshots here -->
-<!-- 
-<img src="screenshots/home.png" width="200"/> <img src="screenshots/cart.png" width="200"/> 
--->
+ 
+<img src="https://github.com/Naman-kr404/GroceryCart/blob/216b9b6d260bf46eb46498a88cc3ea320e5992da/image2.jpeg" width="200"/> <img src="https://github.com/Naman-kr404/GroceryCart/blob/216b9b6d260bf46eb46498a88cc3ea320e5992da/image3.jpeg" width="200"/> <img src="https://github.com/Naman-kr404/GroceryCart/blob/216b9b6d260bf46eb46498a88cc3ea320e5992da/image4.jpeg" width="200"/>  <img src="https://github.com/Naman-kr404/GroceryCart/blob/216b9b6d260bf46eb46498a88cc3ea320e5992da/image5.jpeg" width="200"/>
+
 
 ---
 
 ## 📦 Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/GroceryCart.git
+1. Clone the repository.
+2. Open the project in Android Studio.
+3. Connect your Firebase project (or use your credentials).
+4. Build and run the project on an emulator or physical device.
+
+
+---
+
+## 🔗 Play Store
+GroceryCart is available on the Google Play Store!
+👉 https://play.google.com/store/apps/details?id=com.grocery.cart <!-- Replace this link with the actual URL -->
+
+---
+
+## 🤝 Contributing
+Contributions, issues and feature requests are welcome!
+Feel free to check the issues page.
+
+
+  
